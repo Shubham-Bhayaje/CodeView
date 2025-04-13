@@ -2,7 +2,7 @@
 
 A visual tool for step-by-step Python code execution with real-time variable tracking and memory visualization.
 
-![Python Code Visualizer](https://via.placeholder.com/800x450?text=Python+Code+Visualizer)
+![Python Code Visualizer](https://github.com/Shubham-Bhayaje/CodeView/blob/main/UI.png)
 
 ## Overview
 
