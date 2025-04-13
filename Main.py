@@ -41,7 +41,7 @@ class CodeVisualizer:
 x = 5
 y = 10
 total = x + y
-
+i=0
 for i in range(3):
     total += i
     print(f"Loop {i}: total = {total}")
